@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
         val search = findViewById<EditText>(R.id.search)
         Name = findViewById<TextView>(R.id.textName)
         Race = findViewById<TextView>(R.id.textRace)
-        getrickInfoURL()
+
         getNextInfo(button, imageView)
         searchbutton.setOnClickListener{
             var input = search.text.toString()
