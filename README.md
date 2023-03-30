@@ -40,7 +40,7 @@ My chosen API for this project is https://rickandmortyapi.com/.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src= https://i.imgur.com/IBBJ5eF.mp4/>
+<img src= https://i.imgur.com/HG9IKPm.gif/>
 
 GIF created with ScreentoGif
 
